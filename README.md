@@ -1,33 +1,33 @@
- ###Project File
+ ## Project File
 
 You can download the Power BI project file from the link below:
 
 Power BI Dashboard File:  
 https://1drv.ms/u/c/d707e583de21d85f/IQC6cRvJJGieSrbeAGTk7rKIARmUqgCjnf-ATO_Q7MJ11Xw?e=wSZUNq
 
----
 
-## Dataset
+
+ ## Dataset
 
 The dataset used for this project contains information about road accidents including accident severity, road type, weather conditions, speed limits, light conditions, and road surface conditions.
 
 Dataset Link:  
 https://1drv.ms/x/c/d707e583de21d85f/IQB7i6uJZMOaT6mHvj_iAXCQAYgcRsUm4jWZu0JdZtzZg6U?e=oPYmwo
 
----
-# Road Accident Analysis using Power BI
+
+ Road Accident Analysis using Power BI
 
 This project was created to analyze road accident data using Power BI.  
 The aim of this dashboard is to understand accident patterns and study the factors that influence accidents such as weather conditions, road type, speed limits, and lighting conditions.
 
 By visualizing the accident data through charts and maps, the dashboard helps to easily explore how accidents occur under different road and environmental conditions.
 
----
-## Dashboard Overview
+
+ Dashboard Overview
 
 The Power BI dashboard presents accident data using different visualizations. It allows users to explore accident statistics and understand important trends.
 
-### Key Results
+Key Results
 
 - Total Accidents: 2 Million  
 - Total Casualties: 3 Million  
@@ -36,9 +36,9 @@ The Power BI dashboard presents accident data using different visualizations. It
 
 These numbers give a quick summary of the accident data used in this project.
 
----
 
-## Analysis Included in the Dashboard
+
+ Analysis Included in the Dashboard
 
 The dashboard includes analysis of:
 
@@ -52,27 +52,27 @@ The dashboard includes analysis of:
 
 Filters are also included in the dashboard to allow users to explore the data based on different conditions.
 
----
 
-## Tools Used
+
+ Tools Used
 
 - Power BI  
 - Excel dataset  
 - Power Query for data cleaning  
 
----
 
-## Dashboard Preview
 
-### Road Accident Analysis Dashboard
-![Dashboard](Power BI Dashboard-1.png)
+ Dashboard Preview
 
-### Accident Location and Weather Analysis
-![Dashboard](Power BI Dashboard-2.png)
+ Road Accident Analysis Dashboard
+Power BI Dashboard-1.png
 
----
+ Accident Location and Weather Analysis
+Power BI Dashboard-2.png
 
-## Author
+
+
+Author
 
 Shamitha S M  
 BE – Artificial Intelligence and Machine Learning  
