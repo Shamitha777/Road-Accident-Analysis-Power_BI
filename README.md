@@ -24,11 +24,11 @@ The aim of this dashboard is to understand accident patterns and study the facto
 By visualizing the accident data through charts and maps, the dashboard helps to easily explore how accidents occur under different road and environmental conditions.
 
 
- Dashboard Overview
+### Dashboard Overview
 
 The Power BI dashboard presents accident data using different visualizations. It allows users to explore accident statistics and understand important trends.
 
-Key Results
+### Key Results
 
 - Total Accidents: 2 Million  
 - Total Casualties: 3 Million  
@@ -39,7 +39,7 @@ These numbers give a quick summary of the accident data used in this project.
 
 
 
- Analysis Included in the Dashboard
+###  Analysis Included in the Dashboard
 
 The dashboard includes analysis of:
 
@@ -55,7 +55,7 @@ Filters are also included in the dashboard to allow users to explore the data ba
 
 
 
- Tools Used
+ ### Tools Used
 
 - Power BI  
 - Excel dataset  
@@ -63,7 +63,7 @@ Filters are also included in the dashboard to allow users to explore the data ba
 
 
 
- Dashboard Preview
+ ### Dashboard Preview
 
  Road Accident Analysis Dashboard
 Power BI Dashboard-1.png
@@ -73,7 +73,7 @@ Power BI Dashboard-2.png
 
 
 
-Author
+### Author
 
 Shamitha S M  
 BE – Artificial Intelligence and Machine Learning  
