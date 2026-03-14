@@ -95,7 +95,7 @@ Vivekananda College of Engineering and Technology, Puttur
 
 ---
 
-⭐ This project was developed as part of a **Power BI data analysis internship project**.
+⭐ This project was developed as part of a **Power BI internship project**.
 
 
 
